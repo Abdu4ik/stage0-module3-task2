@@ -5,10 +5,10 @@ public class CopiedNames {
         int variable1 = 0;
         int variable2 = 2000;
         int value1 = 1000;
-        int variable = 4000;
+        int variable3 = 4000;
         int value2 = 3000;
-        int variables = 5000;
+        int variables2 = 5000;
         int variables1 = 7000;
-        int value = 90000;
+        int value3 = 90000;
     }
 }
